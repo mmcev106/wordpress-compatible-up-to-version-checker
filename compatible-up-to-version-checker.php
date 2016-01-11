@@ -16,6 +16,9 @@ TODO:
 Add Description plugin header.
 Add README for github.
 Other stuff like the above.
+Replace "Better Plugin" references with actual name.
+Move JS to js file.
+Use a smarter way of injecting the necessary HTML.
 */
 
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
