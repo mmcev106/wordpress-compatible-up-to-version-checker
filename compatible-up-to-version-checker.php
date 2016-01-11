@@ -4,6 +4,18 @@
 Plugin Name: Compatible Up To Version Checker
 Version: 1.0.1
 Author: Mark McEver
+Plugin URI:  https://github.com/mmcev106/wordpress-compatible-up-to-version-checker
+Description: This describes my plugin in a short sentence
+Author URI:  http://mark.fastmail.net/
+License:     GPL2
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/*
+TODO:
+Add Description plugin header.
+Add README for github.
+Other stuff like the above.
 */
 
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
